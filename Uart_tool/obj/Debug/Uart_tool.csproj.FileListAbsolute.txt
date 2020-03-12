@@ -1,0 +1,9 @@
+H:\Repository\uart_tool\Uart_tool\Uart_tool\bin\Debug\Uart_tool.exe.config
+H:\Repository\uart_tool\Uart_tool\Uart_tool\bin\Debug\Uart_tool.exe
+H:\Repository\uart_tool\Uart_tool\Uart_tool\bin\Debug\Uart_tool.pdb
+H:\Repository\uart_tool\Uart_tool\Uart_tool\obj\Debug\Uart_tool.csprojAssemblyReference.cache
+H:\Repository\uart_tool\Uart_tool\Uart_tool\obj\Debug\Uart_tool.Form1.resources
+H:\Repository\uart_tool\Uart_tool\Uart_tool\obj\Debug\Uart_tool.Properties.Resources.resources
+H:\Repository\uart_tool\Uart_tool\Uart_tool\obj\Debug\Uart_tool.csproj.GenerateResource.cache
+H:\Repository\uart_tool\Uart_tool\Uart_tool\obj\Debug\Uart_tool.exe
+H:\Repository\uart_tool\Uart_tool\Uart_tool\obj\Debug\Uart_tool.pdb
